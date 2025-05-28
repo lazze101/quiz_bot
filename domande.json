@@ -1,0 +1,277 @@
+[
+  {
+    "domanda": "Qual è la capitale dell'Australia?",
+    "opzioni": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "rispostaCorretta": "Canberra"
+  },
+  {
+    "domanda": "Chi ha dipinto la 'Monna Lisa'?",
+    "opzioni": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "rispostaCorretta": "Leonardo da Vinci"
+  },
+  {
+    "domanda": "Qual è l'elemento chimico più abbondante nella crosta terrestre?",
+    "opzioni": ["Ferro", "Silicio", "Ossigeno", "Alluminio"],
+    "rispostaCorretta": "Ossigeno"
+  },
+  {
+    "domanda": "In quale anno è caduto il Muro di Berlino?",
+    "opzioni": ["1985", "1989", "1991", "1993"],
+    "rispostaCorretta": "1989"
+  },
+  {
+    "domanda": "Qual è il fiume più lungo del mondo?",
+    "opzioni": ["Nilo", "Rio delle Amazzoni", "Mississippi", "Yangtze"],
+    "rispostaCorretta": "Nilo"
+  },
+  {
+    "domanda": "Chi è l'autore di 'Don Chisciotte della Mancia'?",
+    "opzioni": ["Miguel de Cervantes", "William Shakespeare", "Victor Hugo", "Fyodor Dostoevsky"],
+    "rispostaCorretta": "Miguel de Cervantes"
+  },
+  {
+    "domanda": "Qual è il pianeta più grande del sistema solare?",
+    "opzioni": ["Marte", "Giove", "Saturno", "Nettuno"],
+    "rispostaCorretta": "Giove"
+  },
+  {
+    "domanda": "Quanti Stati compongono gli Stati Uniti d'America?",
+    "opzioni": ["48", "49", "50", "51"],
+    "rispostaCorretta": "50"
+  },
+  {
+    "domanda": "Qual è il nome della galassia a cui appartiene il nostro sistema solare?",
+    "opzioni": ["Andromeda", "Triangolo", "Via Lattea", "Centauro A"],
+    "rispostaCorretta": "Via Lattea"
+  },
+  {
+    "domanda": "Chi ha formulato la teoria della relatività?",
+    "opzioni": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+    "rispostaCorretta": "Albert Einstein"
+  },
+  {
+    "domanda": "Qual è la capitale del Canada?",
+    "opzioni": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
+    "rispostaCorretta": "Ottawa"
+  },
+  {
+    "domanda": "Qual è la lingua più parlata al mondo per numero di madrelingua?",
+    "opzioni": ["Inglese", "Spagnolo", "Mandarino", "Hindi"],
+    "rispostaCorretta": "Mandarino"
+  },
+  {
+    "domanda": "Chi è l'autore del celebre dipinto 'Guernica'?",
+    "opzioni": ["Salvador Dalí", "Pablo Picasso", "Frida Kahlo", "Joan Miró"],
+    "rispostaCorretta": "Pablo Picasso"
+  },
+  {
+    "domanda": "Qual è il processo con cui le piante producono il proprio cibo?",
+    "opzioni": ["Respirazione", "Fermentazione", "Fotosintesi", "Decomposizione"],
+    "rispostaCorretta": "Fotosintesi"
+  },
+  {
+    "domanda": "In quale città si trova il Colosseo?",
+    "opzioni": ["Atene", "Parigi", "Roma", "Istanbul"],
+    "rispostaCorretta": "Roma"
+  },
+  {
+    "domanda": "Qual è il nome dell'oceano più grande del mondo?",
+    "opzioni": ["Atlantico", "Indiano", "Artico", "Pacifico"],
+    "rispostaCorretta": "Pacifico"
+  },
+  {
+    "domanda": "Qual è il metallo più leggero?",
+    "opzioni": ["Ferro", "Alluminio", "Litio", "Oro"],
+    "rispostaCorretta": "Litio"
+  },
+  {
+    "domanda": "Chi ha scoperto l'America nel 1492?",
+    "opzioni": ["Marco Polo", "Cristoforo Colombo", "Vasco da Gama", "Ferdinando Magellano"],
+    "rispostaCorretta": "Cristoforo Colombo"
+  },
+  {
+    "domanda": "Qual è l'organo che pompa il sangue nel corpo umano?",
+    "opzioni": ["Polmone", "Fegato", "Rene", "Cuore"],
+    "rispostaCorretta": "Cuore"
+  },
+  {
+    "domanda": "Qual è la montagna più alta del mondo?",
+    "opzioni": ["K2", "Monte Everest", "Kangchenjunga", "Lhotse"],
+    "rispostaCorretta": "Monte Everest"
+  },
+  {
+    "domanda": "Quale scienziato ha scoperto la legge di gravità?",
+    "opzioni": ["Galileo Galilei", "Isaac Newton", "Nikola Tesla", "Marie Curie"],
+    "rispostaCorretta": "Isaac Newton"
+  },
+  {
+    "domanda": "Qual è la valuta ufficiale del Giappone?",
+    "opzioni": ["Won", "Yuan", "Yen", "Rupee"],
+    "rispostaCorretta": "Yen"
+  },
+  {
+    "domanda": "Chi ha scritto 'Romeo e Giulietta'?",
+    "opzioni": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Leo Tolstoy"],
+    "rispostaCorretta": "William Shakespeare"
+  },
+  {
+    "domanda": "Qual è la capitale dell'Egitto?",
+    "opzioni": ["Alessandria", "Luxor", "Il Cairo", "Giza"],
+    "rispostaCorretta": "Il Cairo"
+  },
+  {
+    "domanda": "Qual è il gas più abbondante nell'atmosfera terrestre?",
+    "opzioni": ["Ossigeno", "Anidride Carbonica", "Azoto", "Argon"],
+    "rispostaCorretta": "Azoto"
+  },
+  {
+    "domanda": "Quale imperatore romano rese il cristianesimo religione di stato?",
+    "opzioni": ["Giulio Cesare", "Augusto", "Costantino I", "Nerone"],
+    "rispostaCorretta": "Costantino I"
+  },
+  {
+    "domanda": "In quale sport si usa il termine 'ace'?",
+    "opzioni": ["Calcio", "Basket", "Tennis", "Pallavolo"],
+    "rispostaCorretta": "Tennis"
+  },
+  {
+    "domanda": "Qual è l'animale terrestre più veloce?",
+    "opzioni": ["Leone", "Tigre", "Ghepardo", "Gazzella"],
+    "rispostaCorretta": "Ghepardo"
+  },
+  {
+    "domanda": "Quale paese è famoso per le piramidi di Giza?",
+    "opzioni": ["Grecia", "Italia", "Egitto", "Perù"],
+    "rispostaCorretta": "Egitto"
+  },
+  {
+    "domanda": "Chi è il protagonista del romanzo 'Il Signore degli Anelli'?",
+    "opzioni": ["Gandalf", "Aragorn", "Frodo Baggins", "Legolas"],
+    "rispostaCorretta": "Frodo Baggins"
+  },
+  {
+    "domanda": "Qual è il colore primario che non si trova nella bandiera italiana?",
+    "opzioni": ["Verde", "Bianco", "Rosso", "Blu"],
+    "rispostaCorretta": "Blu"
+  },
+  {
+    "domanda": "Qual è la principale fonte di energia per il Sole?",
+    "opzioni": ["Combustione", "Fissione nucleare", "Fusione nucleare", "Decadimento radioattivo"],
+    "rispostaCorretta": "Fusione nucleare"
+  },
+  {
+    "domanda": "In quale città si trova la Torre Eiffel?",
+    "opzioni": ["Londra", "Berlino", "Parigi", "Madrid"],
+    "rispostaCorretta": "Parigi"
+  },
+  {
+    "domanda": "Chi ha composto la 'Nona Sinfonia'?",
+    "opzioni": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Joseph Haydn"],
+    "rispostaCorretta": "Ludwig van Beethoven"
+  },
+  {
+    "domanda": "Qual è il Paese più piccolo del mondo?",
+    "opzioni": ["Monaco", "San Marino", "Vaticano", "Nauru"],
+    "rispostaCorretta": "Vaticano"
+  },
+  {
+    "domanda": "Quale strumento musicale ha 88 tasti?",
+    "opzioni": ["Chitarra", "Violino", "Pianoforte", "Batteria"],
+    "rispostaCorretta": "Pianoforte"
+  },
+  {
+    "domanda": "Qual è la catena montuosa più lunga del mondo?",
+    "opzioni": ["Himalaya", "Ande", "Montagne Rocciose", "Alpi"],
+    "rispostaCorretta": "Ande"
+  },
+  {
+    "domanda": "Chi è il dio greco del mare?",
+    "opzioni": ["Zeus", "Ade", "Poseidone", "Apollo"],
+    "rispostaCorretta": "Poseidone"
+  },
+  {
+    "domanda": "Qual è il nome della teoria che spiega l'origine dell'universo?",
+    "opzioni": ["Teoria del Caos", "Teoria delle Stringhe", "Big Bang", "Teoria del Multiverso"],
+    "rispostaCorretta": "Big Bang"
+  },
+  {
+    "domanda": "Quale animale depone le uova tra i mammiferi?",
+    "opzioni": ["Pipistrello", "Delfino", "Ornitorinco", "Canguro"],
+    "rispostaCorretta": "Ornitorinco"
+  },
+  {
+    "domanda": "Qual è il nome del primo uomo sulla Luna?",
+    "opzioni": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+    "rispostaCorretta": "Neil Armstrong"
+  },
+  {
+    "domanda": "Qual è la capitale della Spagna?",
+    "opzioni": ["Barcellona", "Siviglia", "Madrid", "Valencia"],
+    "rispostaCorretta": "Madrid"
+  },
+  {
+    "domanda": "Qual è il più grande deserto caldo del mondo?",
+    "opzioni": ["Gobi", "Atacama", "Sahara", "Arabico"],
+    "rispostaCorretta": "Sahara"
+  },
+  {
+    "domanda": "Chi ha scritto 'Orgoglio e Pregiudizio'?",
+    "opzioni": ["Emily Brontë", "Jane Austen", "Mary Shelley", "Louisa May Alcott"],
+    "rispostaCorretta": "Jane Austen"
+  },
+  {
+    "domanda": "Qual è il nome scientifico dell'uomo?",
+    "opzioni": ["Homo erectus", "Homo habilis", "Homo sapiens", "Homo neanderthalensis"],
+    "rispostaCorretta": "Homo sapiens"
+  },
+  {
+    "domanda": "Quale dei seguenti è un metallo alcalino?",
+    "opzioni": ["Calcio", "Sodio", "Ferro", "Rame"],
+    "rispostaCorretta": "Sodio"
+  },
+  {
+    "domanda": "In quale secolo si è svolta la Rivoluzione Francese?",
+    "opzioni": ["XVII secolo", "XVIII secolo", "XIX secolo", "XX secolo"],
+    "rispostaCorretta": "XVIII secolo"
+  },
+  {
+    "domanda": "Qual è il simbolo chimico dell'oro?",
+    "opzioni": ["Ag", "Au", "Fe", "Cu"],
+    "rispostaCorretta": "Au"
+  },
+  {
+    "domanda": "Qual è il cibo preferito dei panda?",
+    "opzioni": ["Eucalipto", "Bambù", "Pesce", "Insetti"],
+    "rispostaCorretta": "Bambù"
+  },
+  {
+    "domanda": "Chi è stato il primo presidente degli Stati Uniti?",
+    "opzioni": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "rispostaCorretta": "George Washington"
+  },
+  {
+    "domanda": "Qual è il colore che si ottiene mescolando il blu e il giallo?",
+    "opzioni": ["Arancione", "Verde", "Viola", "Marrone"],
+    "rispostaCorretta": "Verde"
+  },
+  {
+    "domanda": "Qual è la lingua ufficiale del Brasile?",
+    "opzioni": ["Spagnolo", "Portoghese", "Inglese", "Francese"],
+    "rispostaCorretta": "Portoghese"
+  },
+  {
+    "domanda": "Chi ha scritto 'Ventimila leghe sotto i mari'?",
+    "opzioni": ["H.G. Wells", "Jules Verne", "Isaac Asimov", "Arthur C. Clarke"],
+    "rispostaCorretta": "Jules Verne"
+  },
+  {
+    "domanda": "Qual è l'unità di misura della forza?",
+    "opzioni": ["Watt", "Joule", "Newton", "Pascal"],
+    "rispostaCorretta": "Newton"
+  },
+  {
+    "domanda": "Qual è la capitale dell'India?",
+    "opzioni": ["Mumbai", "Kolkata", "Nuova Delhi", "Chennai"],
+    "rispostaCorretta": "Nuova Delhi"
+  }
+]
