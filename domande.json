@@ -273,5 +273,497 @@
     "domanda": "Qual è la capitale dell'India?",
     "opzioni": ["Mumbai", "Kolkata", "Nuova Delhi", "Chennai"],
     "rispostaCorretta": "Nuova Delhi"
+  },
+  {
+    "domanda": "Qual è il più grande mammifero terrestre?",
+    "opzioni": ["Elefante africano", "Rinoceronte bianco", "Ippopotamo", "Giraffa"],
+    "rispostaCorretta": "Elefante africano"
+  },
+  {
+    "domanda": "Chi ha inventato la lampadina a incandescenza?",
+    "opzioni": ["Nikola Tesla", "Alexander Graham Bell", "Thomas Edison", "Benjamin Franklin"],
+    "rispostaCorretta": "Thomas Edison"
+  },
+  {
+    "domanda": "Qual è il paese di origine della pizza?",
+    "opzioni": ["Francia", "Italia", "Grecia", "Spagna"],
+    "rispostaCorretta": "Italia"
+  },
+  {
+    "domanda": "In quale continente si trova il deserto del Sahara?",
+    "opzioni": ["Asia", "America del Nord", "Africa", "Australia"],
+    "rispostaCorretta": "Africa"
+  },
+  {
+    "domanda": "Qual è il nome della principale autostrada degli Stati Uniti che attraversa il paese da est a ovest?",
+    "opzioni": ["Route 66", "Interstate 80", "Pacific Coast Highway", "Appalachian Trail"],
+    "rispostaCorretta": "Interstate 80"
+  },
+  {
+    "domanda": "Chi è l'autore de 'Il Piccolo Principe'?",
+    "opzioni": ["J.K. Rowling", "Antoine de Saint-Exupéry", "Lewis Carroll", "Roald Dahl"],
+    "rispostaCorretta": "Antoine de Saint-Exupéry"
+  },
+  {
+    "domanda": "Qual è il minerale più duro conosciuto?",
+    "opzioni": ["Oro", "Ferro", "Diamante", "Quarzo"],
+    "rispostaCorretta": "Diamante"
+  },
+  {
+    "domanda": "In quale anno è iniziata la Prima Guerra Mondiale?",
+    "opzioni": ["1905", "1914", "1918", "1939"],
+    "rispostaCorretta": "1914"
+  },
+  {
+    "domanda": "Qual è l'unità di misura della resistenza elettrica?",
+    "opzioni": ["Volt", "Ampere", "Ohm", "Watt"],
+    "rispostaCorretta": "Ohm"
+  },
+  {
+    "domanda": "Qual è il mammifero più grande del mondo?",
+    "opzioni": ["Orca", "Squalo Balena", "Balena azzurra", "Capodoglio"],
+    "rispostaCorretta": "Balena azzurra"
+  },
+  {
+    "domanda": "Quale è la capitale dell'Argentina?",
+    "opzioni": ["Rio de Janeiro", "Santiago", "Buenos Aires", "Lima"],
+    "rispostaCorretta": "Buenos Aires"
+  },
+  {
+    "domanda": "Chi ha composto l'opera 'Le nozze di Figaro'?",
+    "opzioni": ["Giuseppe Verdi", "Wolfgang Amadeus Mozart", "Richard Wagner", "Johann Sebastian Bach"],
+    "rispostaCorretta": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "domanda": "Qual è il numero atomico dell'idrogeno?",
+    "opzioni": ["1", "2", "3", "4"],
+    "rispostaCorretta": "1"
+  },
+  {
+    "domanda": "In quale paese si trova il monte Fuji?",
+    "opzioni": ["Cina", "Corea del Sud", "Giappone", "Vietnam"],
+    "rispostaCorretta": "Giappone"
+  },
+  {
+    "domanda": "Quale tra i seguenti è un osso del braccio?",
+    "opzioni": ["Femore", "Tibia", "Radio", "Perone"],
+    "rispostaCorretta": "Radio"
+  },
+  {
+    "domanda": "Qual è il nome dell'antica città romana distrutta dall'eruzione del Vesuvio?",
+    "opzioni": ["Ostia", "Ercolano", "Pompei", "Siracusa"],
+    "rispostaCorretta": "Pompei"
+  },
+  {
+    "domanda": "Quale sport è conosciuto come 'il re degli sport'?",
+    "opzioni": ["Basket", "Tennis", "Calcio", "Pugilato"],
+    "rispostaCorretta": "Calcio"
+  },
+  {
+    "domanda": "Qual è il numero massimo di giocatori in una squadra di calcio (in campo)?",
+    "opzioni": ["9", "10", "11", "12"],
+    "rispostaCorretta": "11"
+  },
+  {
+    "domanda": "Qual è l'animale simbolo della Nuova Zelanda?",
+    "opzioni": ["Canguro", "Koala", "Kiwi", "Ornitorinco"],
+    "rispostaCorretta": "Kiwi"
+  },
+  {
+    "domanda": "Chi è il fondatore di Microsoft?",
+    "opzioni": ["Steve Jobs", "Mark Zuckerberg", "Bill Gates", "Jeff Bezos"],
+    "rispostaCorretta": "Bill Gates"
+  },
+  {
+    "domanda": "Qual è il più grande organo del corpo umano?",
+    "opzioni": ["Cuore", "Cervello", "Pelle", "Fegato"],
+    "rispostaCorretta": "Pelle"
+  },
+  {
+    "domanda": "Qual è il processo di trasformazione del bruco in farfalla?",
+    "opzioni": ["Germinazione", "Polimerizzazione", "Metamorfosi", "Fotosintesi"],
+    "rispostaCorretta": "Metamorfosi"
+  },
+  {
+    "domanda": "Qual è la capitale del Sudafrica (legislativa)?",
+    "opzioni": ["Città del Capo", "Pretoria", "Johannesburg", "Durban"],
+    "rispostaCorretta": "Città del Capo"
+  },
+  {
+    "domanda": "Chi è stato il primo esploratore a circumnavigare il mondo?",
+    "opzioni": ["Cristoforo Colombo", "Vasco da Gama", "Ferdinando Magellano", "James Cook"],
+    "rispostaCorretta": "Ferdinando Magellano"
+  },
+  {
+    "domanda": "Qual è il nome del famoso pittore olandese noto per i suoi autoritratti e l'uso del chiaroscuro?",
+    "opzioni": ["Johannes Vermeer", "Rembrandt van Rijn", "Pieter Bruegel il Vecchio", "Hieronymus Bosch"],
+    "rispostaCorretta": "Rembrandt van Rijn"
+  },
+  {
+    "domanda": "Qual è l'unità di misura della potenza?",
+    "opzioni": ["Volt", "Ampere", "Joule", "Watt"],
+    "rispostaCorretta": "Watt"
+  },
+  {
+    "domanda": "Qual è il nome dell'antica civiltà che costruì le piramidi in Egitto?",
+    "opzioni": ["Minoica", "Mesopotamica", "Egizia", "Romana"],
+    "rispostaCorretta": "Egizia"
+  },
+  {
+    "domanda": "Qual è il numero di continenti sulla Terra?",
+    "opzioni": ["5", "6", "7", "8"],
+    "rispostaCorretta": "7"
+  },
+  {
+    "domanda": "Qual è il componente principale del vetro?",
+    "opzioni": ["Calcare", "Argilla", "Silice", "Gesso"],
+    "rispostaCorretta": "Silice"
+  },
+  {
+    "domanda": "Chi è l'autore de 'La Guerra dei Mondi'?",
+    "opzioni": ["Jules Verne", "Isaac Asimov", "H.G. Wells", "Ray Bradbury"],
+    "rispostaCorretta": "H.G. Wells"
+  },
+  {
+    "domanda": "Qual è la capitale del Brasile?",
+    "opzioni": ["Rio de Janeiro", "San Paolo", "Brasilia", "Salvador"],
+    "rispostaCorretta": "Brasilia"
+  },
+  {
+    "domanda": "Qual è la temperatura di ebollizione dell'acqua al livello del mare in gradi Celsius?",
+    "opzioni": ["0°C", "50°C", "100°C", "200°C"],
+    "rispostaCorretta": "100°C"
+  },
+  {
+    "domanda": "Quale nazione ha vinto più Mondiali di calcio maschili?",
+    "opzioni": ["Germania", "Italia", "Argentina", "Brasile"],
+    "rispostaCorretta": "Brasile"
+  },
+  {
+    "domanda": "Qual è il nome della prima donna ad andare nello spazio?",
+    "opzioni": ["Sally Ride", "Valentina Tereshkova", "Laika", "Kalpana Chawla"],
+    "rispostaCorretta": "Valentina Tereshkova"
+  },
+  {
+    "domanda": "Qual è il gruppo musicale più venduto di tutti i tempi?",
+    "opzioni": ["Queen", "Led Zeppelin", "The Beatles", "Rolling Stones"],
+    "rispostaCorretta": "The Beatles"
+  },
+  {
+    "domanda": "Qual è l'osso più lungo del corpo umano?",
+    "opzioni": ["Tibia", "Perone", "Omero", "Femore"],
+    "rispostaCorretta": "Femore"
+  },
+  {
+    "domanda": "Qual è il più grande arcipelago del mondo?",
+    "opzioni": ["Giappone", "Indonesia", "Filippine", "Caraibi"],
+    "rispostaCorretta": "Indonesia"
+  },
+  {
+    "domanda": "Quale opera d'arte è famosa per il suo sorriso enigmatico?",
+    "opzioni": ["La Venere di Milo", "La Gioconda", "La statua della Libertà", "Il Pensatore"],
+    "rispostaCorretta": "La Gioconda"
+  },
+  {
+    "domanda": "Qual è il nome del famoso detective di Baker Street 221B?",
+    "opzioni": ["Hercule Poirot", "Sherlock Holmes", "Miss Marple", "Auguste Dupin"],
+    "rispostaCorretta": "Sherlock Holmes"
+  },
+  {
+    "domanda": "Qual è il nome dell'animale che è il simbolo del WWF?",
+    "opzioni": ["Orso polare", "Tigre", "Panda Gigante", "Elefante"],
+    "rispostaCorretta": "Panda Gigante"
+  },
+  {
+    "domanda": "Qual è il nome del mare che separa l'Europa dall'Africa?",
+    "opzioni": ["Mar Nero", "Mar Rosso", "Mar Mediterraneo", "Mar Caspio"],
+    "rispostaCorretta": "Mar Mediterraneo"
+  },
+  {
+    "domanda": "Qual è la più grande isola del mondo?",
+    "opzioni": ["Madagascar", "Borneo", "Nuova Guinea", "Groenlandia"],
+    "rispostaCorretta": "Groenlandia"
+  },
+  {
+    "domanda": "Qual è il simbolo chimico dell'argento?",
+    "opzioni": ["Au", "Ag", "Fe", "Cu"],
+    "rispostaCorretta": "Ag"
+  },
+  {
+    "domanda": "Quale pianeta è conosciuto come il 'Pianeta Rosso'?",
+    "opzioni": ["Venere", "Marte", "Giove", "Urano"],
+    "rispostaCorretta": "Marte"
+  },
+  {
+    "domanda": "Chi è considerato il padre della medicina occidentale?",
+    "opzioni": ["Galeno", "Ippocrate", "Aristotele", "Platone"],
+    "rispostaCorretta": "Ippocrate"
+  },
+  {
+    "domanda": "Qual è la città più popolosa del mondo?",
+    "opzioni": ["Pechino", "Shanghai", "Tokyo", "Delhi"],
+    "rispostaCorretta": "Tokyo"
+  },
+  {
+    "domanda": "Qual è il nome del vulcano più famoso d'Italia?",
+    "opzioni": ["Stromboli", "Etna", "Vesuvio", "Vulcano"],
+    "rispostaCorretta": "Vesuvio"
+  },
+  {
+    "domanda": "Quale famosa statua si trova sull'Isola della Libertà a New York?",
+    "opzioni": ["Statua di David", "Statua di Cristo Redentore", "Statua della Libertà", "Monumento a Washington"],
+    "rispostaCorretta": "Statua della Libertà"
+  },
+  {
+    "domanda": "Chi ha scritto la Costituzione degli Stati Uniti?",
+    "opzioni": ["George Washington", "Benjamin Franklin", "James Madison", "Thomas Jefferson"],
+    "rispostaCorretta": "James Madison"
+  },
+  [
+  {
+    "domanda": "Qual è il colore del cielo al tramonto?",
+    "opzioni": ["Blu", "Verde", "Arancione/Rosso", "Giallo"],
+    "rispostaCorretta": "Arancione/Rosso"
+  },
+  {
+    "domanda": "Chi ha inventato il telefono?",
+    "opzioni": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+    "rispostaCorretta": "Alexander Graham Bell"
+  },
+  {
+    "domanda": "Qual è la capitale della Russia?",
+    "opzioni": ["San Pietroburgo", "Kiev", "Mosca", "Varsavia"],
+    "rispostaCorretta": "Mosca"
+  },
+  {
+    "domanda": "Qual è il nome del famoso vulcano giapponese?",
+    "opzioni": ["Stromboli", "Etna", "Vesuvio", "Fuji"],
+    "rispostaCorretta": "Fuji"
+  },
+  {
+    "domanda": "Qual è la scienza che studia gli animali?",
+    "opzioni": ["Botanica", "Geologia", "Zoologia", "Ecologia"],
+    "rispostaCorretta": "Zoologia"
+  },
+  {
+    "domanda": "Quale elemento chimico è il componente principale del DNA?",
+    "opzioni": ["Ossigeno", "Carbonio", "Azoto", "Idrogeno"],
+    "rispostaCorretta": "Carbonio"
+  },
+  {
+    "domanda": "Chi è il compositore della 'Marcia Nuziale'?",
+    "opzioni": ["Bach", "Mozart", "Mendelssohn", "Beethoven"],
+    "rispostaCorretta": "Mendelssohn"
+  },
+  {
+    "domanda": "Qual è il nome del primo satellite artificiale lanciato in orbita?",
+    "opzioni": ["Explorer 1", "Vanguard 1", "Sputnik 1", "Telstar 1"],
+    "rispostaCorretta": "Sputnik 1"
+  },
+  {
+    "domanda": "Qual è il tipo di energia prodotta dal movimento delle pale eoliche?",
+    "opzioni": ["Solare", "Idroelettrica", "Eolica", "Geotermica"],
+    "rispostaCorretta": "Eolica"
+  },
+  {
+    "domanda": "Qual è il nome del sistema di scrittura degli antichi Egizi?",
+    "opzioni": ["Cuneiforme", "Geroglifico", "Alfabeto Fenicio", "Sanscrito"],
+    "rispostaCorretta": "Geroglifico"
+  },
+  {
+    "domanda": "Qual è il nome dell'animale che è il simbolo della saggezza?",
+    "opzioni": ["Lupo", "Volpe", "Gufo", "Corvo"],
+    "rispostaCorretta": "Gufo"
+  },
+  {
+    "domanda": "Qual è la forma geometrica del simbolo dell'infinito?",
+    "opzioni": ["Cerchio", "Ottagono", "Lemniscata", "Spirale"],
+    "rispostaCorretta": "Lemniscata"
+  },
+  {
+    "domanda": "Qual è il gas che le piante assorbono dall'atmosfera?",
+    "opzioni": ["Ossigeno", "Azoto", "Anidride Carbonica", "Metano"],
+    "rispostaCorretta": "Anidride Carbonica"
+  },
+  {
+    "domanda": "Chi è il fondatore di Facebook?",
+    "opzioni": ["Elon Musk", "Jeff Bezos", "Mark Zuckerberg", "Larry Page"],
+    "rispostaCorretta": "Mark Zuckerberg"
+  },
+  {
+    "domanda": "Qual è il nome del deserto più grande del Nord America?",
+    "opzioni": ["Mojave", "Sonora", "Chihuahua", "Gran Bacino"],
+    "rispostaCorretta": "Gran Bacino"
+  },
+  {
+    "domanda": "Qual è la lingua ufficiale dell'Irlanda?",
+    "opzioni": ["Inglese", "Irlandese", "Gallese", "Scozzese"],
+    "rispostaCorretta": "Inglese"
+  },
+  {
+    "domanda": "Qual è il nome dell'organo che produce la bile nel corpo umano?",
+    "opzioni": ["Rene", "Pancreas", "Milza", "Fegato"],
+    "rispostaCorretta": "Fegato"
+  },
+  {
+    "domanda": "In quale città si svolge il Carnevale più famoso del mondo?",
+    "opzioni": ["Venezia", "Rio de Janeiro", "New Orleans", "Colonia"],
+    "rispostaCorretta": "Rio de Janeiro"
+  },
+  {
+    "domanda": "Qual è la velocità della luce nel vuoto (approssimata)?",
+    "opzioni": ["30.000 km/s", "300.000 km/s", "3.000.000 km/s", "30.000.000 km/s"],
+    "rispostaCorretta": "300.000 km/s"
+  },
+  {
+    "domanda": "Qual è il nome del continente più freddo?",
+    "opzioni": ["Asia", "Artico", "Antartide", "Europa"],
+    "rispostaCorretta": "Antartide"
+  },
+  {
+    "domanda": "Qual è il nome del primo uomo a camminare nello spazio?",
+    "opzioni": ["Neil Armstrong", "Buzz Aldrin", "Alexei Leonov", "Yuri Gagarin"],
+    "rispostaCorretta": "Alexei Leonov"
+  },
+  {
+    "domanda": "Qual è il colore del sangue ossigenato?",
+    "opzioni": ["Blu", "Rosso scuro", "Rosso brillante", "Verde"],
+    "rispostaCorretta": "Rosso brillante"
+  },
+  {
+    "domanda": "Qual è il nome del famoso tempio greco dedicato ad Atena?",
+    "opzioni": ["Acropoli", "Partenone", "Colosseo", "Panteon"],
+    "rispostaCorretta": "Partenone"
+  },
+  {
+    "domanda": "Qual è il simbolo chimico dell'acqua?",
+    "opzioni": ["O2", "H2O", "CO2", "N2"],
+    "rispostaCorretta": "H2O"
+  },
+  {
+    "domanda": "Qual è l'animale che è il simbolo della Cina?",
+    "opzioni": ["Drago", "Tigre", "Panda", "Cervo"],
+    "rispostaCorretta": "Panda"
+  },
+  {
+    "domanda": "Chi ha scritto 'Harry Potter'?",
+    "opzioni": ["Stephen King", "J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin"],
+    "rispostaCorretta": "J.K. Rowling"
+  },
+  {
+    "domanda": "Qual è l'unità di misura della pressione?",
+    "opzioni": ["Volt", "Newton", "Pascal", "Joule"],
+    "rispostaCorretta": "Pascal"
+  },
+  {
+    "domanda": "Qual è il Paese con il maggior numero di isole al mondo?",
+    "opzioni": ["Giappone", "Indonesia", "Grecia", "Svezia"],
+    "rispostaCorretta": "Svezia"
+  },
+  {
+    "domanda": "Qual è il nome del famoso vulcano italiano che distrusse Pompei?",
+    "opzioni": ["Etna", "Stromboli", "Vesuvio", "Vulcano"],
+    "rispostaCorretta": "Vesuvio"
+  },
+  {
+    "domanda": "Qual è il nome del famoso dipinto di Edvard Munch che raffigura una figura che urla?",
+    "opzioni": ["La Notte Stellata", "Guernica", "L'Urlo", "La Persistenza della Memoria"],
+    "rispostaCorretta": "L'Urlo"
+  },
+  {
+    "domanda": "Qual è il nome della dottrina filosofica che sostiene che l'universo è interamente determinato da leggi fisiche?",
+    "opzioni": ["Idealismo", "Esistenzialismo", "Determinismo", "Volontarismo"],
+    "rispostaCorretta": "Determinismo"
+  },
+  {
+    "domanda": "Qual è il più grande lago d'acqua dolce del mondo per volume?",
+    "opzioni": ["Lago Superiore", "Lago Vittoria", "Lago Baikal", "Lago Tanganica"],
+    "rispostaCorretta": "Lago Baikal"
+  },
+  {
+    "domanda": "Chi ha teorizzato le leggi del moto planetario?",
+    "opzioni": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "Nicola Copernico"],
+    "rispostaCorretta": "Johannes Kepler"
+  },
+  {
+    "domanda": "Qual è la capitale del Portogallo?",
+    "opzioni": ["Porto", "Lisbona", "Faro", "Coimbra"],
+    "rispostaCorretta": "Lisbona"
+  },
+  {
+    "domanda": "Qual è il nome dell'arcipelago nell'Oceano Pacifico noto per le sue iguane marine?",
+    "opzioni": ["Hawaii", "Maldive", "Galapagos", "Fiji"],
+    "rispostaCorretta": "Galapagos"
+  },
+  {
+    "domanda": "Qual è il nome della più grande barriera corallina del mondo?",
+    "opzioni": ["Barriera Corallina del Belize", "Grande Barriera Corallina", "Barriera Corallina del Mar Rosso", "Barriera Corallina delle Filippine"],
+    "rispostaCorretta": "Grande Barriera Corallina"
+  },
+  {
+    "domanda": "Qual è il nome del famoso castello di Dracula in Transilvania?",
+    "opzioni": ["Castello di Peles", "Castello di Bran", "Castello Corvin", "Castello di Hunyad"],
+    "rispostaCorretta": "Castello di Bran"
+  },
+  {
+    "domanda": "Qual è il nome dell'animale che subisce il letargo invernale?",
+    "opzioni": ["Lupo", "Orso", "Coniglio", "Cervo"],
+    "rispostaCorretta": "Orso"
+  },
+  {
+    "domanda": "Qual è la molecola responsabile del colore verde delle piante?",
+    "opzioni": ["Emoglobina", "Melanina", "Clorofilla", "Carotene"],
+    "rispostaCorretta": "Clorofilla"
+  },
+  {
+    "domanda": "Qual è il più grande deserto freddo del mondo?",
+    "opzioni": ["Gobi", "Antartico", "Artico", "Patagonia"],
+    "rispostaCorretta": "Antartico"
+  },
+  {
+    "domanda": "Qual è la forma di governo in cui il potere è nelle mani di un piccolo gruppo di persone?",
+    "opzioni": ["Democrazia", "Monarchia", "Oligarchia", "Anarchia"],
+    "rispostaCorretta": "Oligarchia"
+  },
+  {
+    "domanda": "Qual è il nome del celebre fisico che ha formulato le tre leggi della dinamica?",
+    "opzioni": ["Albert Einstein", "Stephen Hawking", "Isaac Newton", "Niels Bohr"],
+    "rispostaCorretta": "Isaac Newton"
+  },
+  {
+    "domanda": "Qual è la capitale dell'Islanda?",
+    "opzioni": ["Oslo", "Helsinki", "Stoccolma", "Reykjavík"],
+    "rispostaCorretta": "Reykjavík"
+  },
+  {
+    "domanda": "Qual è l'animale marino più intelligente?",
+    "opzioni": ["Squalo", "Balena", "Delfino", "Polpo"],
+    "rispostaCorretta": "Delfino"
+  },
+  {
+    "domanda": "Qual è il nome del processo geologico che forma le montagne?",
+    "opzioni": ["Erosione", "Sedimentazione", "Orogenesi", "Vulcanismo"],
+    "rispostaCorretta": "Orogenesi"
+  },
+  {
+    "domanda": "Chi è il dio romano della guerra?",
+    "opzioni": ["Giove", "Nettuno", "Marte", "Apollo"],
+    "rispostaCorretta": "Marte"
+  },
+  {
+    "domanda": "Qual è il nome dell'inventore della stampa a caratteri mobili?",
+    "opzioni": ["Leonardo da Vinci", "Galileo Galilei", "Johannes Gutenberg", "Isaac Newton"],
+    "rispostaCorretta": "Johannes Gutenberg"
+  },
+  {
+    "domanda": "Qual è il nome del famoso artista che ha tagliato un orecchio?",
+    "opzioni": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Salvador Dalí"],
+    "rispostaCorretta": "Vincent van Gogh"
+  },
+  {
+    "domanda": "Qual è il nome del gas che rende le bibite frizzanti?",
+    "opzioni": ["Ossigeno", "Azoto", "Anidride Carbonica", "Metano"],
+    "rispostaCorretta": "Anidride Carbonica"
   }
+]
 ]
